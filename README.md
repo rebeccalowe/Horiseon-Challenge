@@ -8,7 +8,7 @@ As a marketing agency, I want a codebase that follows accessibility standards, s
 The Horiseon webpage and codebase allows for marketing agencies to have access to learning about a solution for managing web presence through the usage of search engine optimization. In addition, information regarding maintaining a positive online reputation to attract business clients and easy social media marketing are available to agencies through the Horiseon webpage and links. The codebase has been polished to include "alt" attributes, a descriptive web title, as well as semantic and logical HTML elements. 
 
 ## Links:
-file:///Users/rebeccalowe/bootcamp/challenges/Horiseon-Challenge/index.html
+https://rebeccalowe.github.io/Horiseon-Challenge/
 
 ![Alt text](assets/images/Screenshot1.png)
 ![Alt text](assets/images/Screenshot2.png)
